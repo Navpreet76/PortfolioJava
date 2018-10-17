@@ -1,0 +1,42 @@
+*{
+    font-family: 'Open Sans', sans-serif!important;
+    width: 1200px;
+}
+h1{
+    color: red;
+}
+.jumbotron{
+    background-color: #27af8a!important;
+    
+}
+  #panel, #panel2, #panel3 {
+	padding: 50px;
+	text-align: center;
+	background-color: orange;
+	border: 1px solid #c3c3c3;
+	display: none;
+	
+}
+#flip {
+	padding: 5px;
+	text-align: center;
+	background-color: lightblue;
+	border: 1px solid black;
+
+}
+#flip2 {
+	padding: 5px;
+	text-align: center;
+	background-color: lightblue;
+	border: 1px solid black;
+}
+#flip3 {
+	padding: 5px;
+	text-align: center;
+	background-color: lightblue;
+	border: 1px solid black;
+}
+.jumbotron1 {
+        background-color: #27af8a!important;
+        
+    }
